@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Biosensor Design with Metamaterial**
 
-- 🌱 I’m currently learning **Post Quantum Cryptography**
+- 🌱 I’m currently learning **Post Quantum Cryptography and Large Language Model(LLM)**
 
-- 👯 I’m looking to collaborate on **Post Quantum Cryptography**
+- 👯 I’m looking to collaborate on **Post Quantum Cryptography and Large Language Model(LLM)**
 
 - 📫 How to reach me **abdulkadernayon@gmail.com**
 
